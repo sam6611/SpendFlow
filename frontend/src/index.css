@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: gilroy;
+    src: url('./assets/Gilroy-Regular.d220ff91.ttf');
+    font-display: swap;
+}
+
+body {
+    font-family: gilroy;
+}

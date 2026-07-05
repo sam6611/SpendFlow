@@ -386,7 +386,16 @@ export const forgotPassword = TryCatch(async (req, res) => {
   const resetToken = crypto.randomBytes(32).toString("hex");
 
   const resetKey = `reset-password:${resetToken}`;
-
+await redisClient.set(
+    resetKey,
+  JSON.stringify({
+    userId: user._id,
+    email: user.email,
+  }),
+  {
+    EX: 900, // 15 minutes
+  }
+);
 
   const subject = "Reset your password";
   const html = getResetPasswordHtml({ email, token: resetToken });

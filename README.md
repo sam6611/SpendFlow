@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💰 SmartKhata — AI-Powered Expense & Khata Manager
+# 💰 SpendFlow — AI-Powered Expense & Khata Manager
 
 ### India's Smartest Personal Finance Tracker with Telegram Integration
 

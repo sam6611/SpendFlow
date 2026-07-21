@@ -17,7 +17,7 @@ Track expenses, manage budgets, receive AI-powered insights, and manage Khata re
 
 ---
 
-# 📌 Overview
+#  Overview
 
 SpendFlow is a modern AI-powered personal finance platform that enables users to manage expenses, budgets, and lending records using natural language.
 
@@ -35,9 +35,9 @@ The platform also integrates with Telegram, allowing users to manage their finan
 
 ---
 
-# ✨ Features
+#  Features
 
-## 🤖 AI Expense Tracking
+##  AI Expense Tracking
 
 - Natural language expense parsing
 - Multi-language support
@@ -47,7 +47,7 @@ The platform also integrates with Telegram, allowing users to manage their finan
 
 ---
 
-## 💬 Telegram Integration
+##  Telegram Integration
 
 - Telegram expense tracking
 - OTP-based account linking
@@ -56,7 +56,7 @@ The platform also integrates with Telegram, allowing users to manage their finan
 
 ---
 
-## 📒 Digital Khata Management
+##  Digital Khata Management
 
 - Track money lent
 - Track money borrowed
@@ -66,7 +66,7 @@ The platform also integrates with Telegram, allowing users to manage their finan
 
 ---
 
-## 📊 Analytics Dashboard
+##  Analytics Dashboard
 
 - Expense Breakdown
 - Monthly Spending
@@ -77,7 +77,7 @@ The platform also integrates with Telegram, allowing users to manage their finan
 
 ---
 
-## 🔐 Authentication
+##  Authentication
 
 - Email Authentication
 - Google OAuth
@@ -88,7 +88,7 @@ The platform also integrates with Telegram, allowing users to manage their finan
 
 ---
 
-## 🛡 Security
+##  Security
 
 - Redis Rate Limiting
 - CSRF Protection
@@ -98,7 +98,7 @@ The platform also integrates with Telegram, allowing users to manage their finan
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 ## Frontend
 
